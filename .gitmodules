@@ -1,5 +1,5 @@
 [submodule "assets/gonuxt"]
-	path = assets/gonuxt-assets
+	path = assets/gonuxt
 	url = git@github.com:gdsc-osaka/gonuxt-assets.git
 [submodule "gonuxt"]
 	path = gonuxt
