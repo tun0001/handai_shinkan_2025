@@ -1,6 +1,8 @@
+import gakurenImage from '@/assets/outf-img/gaku/gakuren.JPG';
+
 export default {
   name: 'GakuRecSec',
   data: () => ({
-    imgSrc: require('@/assets/outf-img/gaku/gakuren.jpg'),
+    imgSrc: gakurenImage,
   }),
 }
