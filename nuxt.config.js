@@ -4,7 +4,7 @@ const routerBase =
   process.env.DEPLOY_ENV === 'GH_PAGES'
     ? {
       router: {
-        base: '/outf-web/',
+        base: '/handai_shinkan_2025/',
       },
     }
     : {}

@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "nuxt",
-    "build": "DEPLOY_ENV=GH_PAGES nuxt build",
+    "build": n"DEPLOY_ENV=GH_PAGES nuxt build",
     "start": "nuxt start",
     "generate": "DEPLOY_ENV=GH_PAGES nuxt generate",
     "deploy": "gh-pages -d dist -t",
