@@ -36,7 +36,7 @@ export default {
   props: {
     imgSrc: {
       type: String,
-      default: require('@/assets/gonuxt-assets/img/sample01.jpg'),
+      default: require('@/assets/gonuxt/img/sample01.jpg'),
     },
     // imgSrc2: {
     //   type: String,
