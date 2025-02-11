@@ -4,7 +4,7 @@ export default {
   props: {
     imgSrc: {
       type: String,
-      default: require('@/assets/message/img/stadium.jpg'),
+      default: require('@/assets/message/img/stadium.JPG'),
     },
     imgSrc2: {
       type: String,
