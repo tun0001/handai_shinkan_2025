@@ -83,7 +83,10 @@ export default {
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: faviconPath }],
   },
-
+  // Generate configuration
+  generate: {
+    dir: 'docs' // 生成された静的ファイルを配置するディレクトリ
+  },
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [],
 
