@@ -1,4 +1,4 @@
-# GONuxT: GDSC Osaka Univ. Nuxt.js Template Library
+#Osaka Univ. Nuxt.js Template Library
 
 gonuxt is a template library for nuxt.js build by Google Developer Student Club Osaka University Chapter.
 
