@@ -1,4 +1,4 @@
-import gakurenImage from '@/assets/outf-img/gaku/gakuren.JPG';
+import gakurenImage from '@/assets/outf-img/gaku/gakuren.jpg';
 
 export default {
   name: 'GakuRecSec',
