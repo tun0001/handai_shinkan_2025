@@ -1,4 +1,4 @@
-import BackgroundImage from '@/assets/message/img/stadium.jpg'
+import BackgroundImage from '@/assets/message/img/stadium.JPG
 
 export default {
   props: {
