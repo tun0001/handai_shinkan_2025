@@ -4,6 +4,19 @@
       <h2 class="font-weight-bold secondary--text text-h3 text--darken-2">
         新歓情報
       </h2>
+      <!-- 新歓応募フォームボタンを追加 -->
+      <v-row class="d-flex justify-center align-center mb-4">
+        <v-btn
+          color="primary"
+          dark
+          large
+          href="https://docs.google.com/forms/d/e/1FAIpQLSdgNDLPPNSufGF00UfJBSel09HuOt_1EF_ye_8PqMO7EzA77Q/viewform"
+          target="_blank"
+          style="font-size: 1.5em; padding: 1em 2em;"
+        >
+          新歓応募フォームはこちら！
+        </v-btn>
+      </v-row>
       <v-row
         class="d-flex justify-center align-center gont-tile-layout-template"
       >
@@ -26,8 +39,22 @@
             :zoomID="event.zoomID"
             :zoompass="event.zoompass"
           />
+          
         </v-col>
+        <v-btn
+            v-if="$vuetify.breakpoint.smAndDown"
+            color="primary"
+            dark
+            large
+            block
+            href="https://docs.google.com/forms/d/e/1FAIpQLSdgNDLPPNSufGF00UfJBSel09HuOt_1EF_ye_8PqMO7EzA77Q/viewform"
+            target="_blank"
+            style="font-size: 1.2em; margin-top: 1em;"
+          >
+            新歓応募フォームはこちら！
+          </v-btn>
       </v-row>
+      
     </section>
   </v-container>
 </section>
