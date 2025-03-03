@@ -28,19 +28,19 @@ export default {
           dayandtime: '日時：4月5日，4月6日',
           place: '場所：豊中キャンパス',
         },
-        {
-          imgSrc: require('@/assets/shinkanjoho/Img/img3.jpg'),
-          date: '日時未定',
-          title: '女子新歓',
-          detail:
-            '女子部員と楽しくおしゃべりしましょう！女子だからこその話が聞けるかも！？',
-          dayandtime: '日時：未定',
-          place:
-            'zoom開催の予定です。リンク等が決まりましたらこちらに掲載します。',
-          zoomlink: '',
-          zoomID: '',
-          zoompass: '',
-        },
+        // {
+        //   imgSrc: require('@/assets/shinkanjoho/Img/img3.jpg'),
+        //   date: '日時未定',
+        //   title: '女子新歓',
+        //   detail:
+        //     '女子部員と楽しくおしゃべりしましょう！女子だからこその話が聞けるかも！？',
+        //   dayandtime: '日時：未定',
+        //   place:
+        //     'zoom開催の予定です。リンク等が決まりましたらこちらに掲載します。',
+        //   zoomlink: '',
+        //   zoomID: '',
+        //   zoompass: '',
+        // },
         {
           imgSrc: require('@/assets/shinkanjoho/Img/img4.jpg'),
           date: '活動日(月・火・水・金・土)',
