@@ -15,7 +15,7 @@ export default {
         {
           name: '金子アレックス龍之介',
           txt: '短長パート長',
-          imgSrc: require('@/assets/member-img/短長.jpg'),
+          imgSrc: require('@/assets/member-img/短長-2025.jpg'),
           // txt2: '初めまして，休日は本を読んだり，散歩をしたりします．',
           // imgSrc2: "require('@/assets/gonuxt/img/sample01.jpg')",
         },

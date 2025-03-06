@@ -22,7 +22,7 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     titleTemplate: '%s',
-    title: '大阪大学陸上部新歓ページ2022',
+    title: '大阪大学陸上部新歓ページ2025',
     htmlAttrs: {
       lang: 'en',
     },
@@ -45,7 +45,7 @@ export default {
       {
         hid: 'og:site_name',
         property: 'og:site_name',
-        content: '大阪大学陸上部新歓ページ2022',
+        content: '大阪大学陸上部新歓ページ2025',
       },
       { hid: 'og:type', property: 'og:type', content: 'website' },
       {
@@ -78,7 +78,7 @@ export default {
       {
         hid: 'twitter:site',
         name: 'twitter:site',
-        content: '@outf_shinkan_22',
+        content: '@outf_shinkan_25',
       },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: faviconPath }],
