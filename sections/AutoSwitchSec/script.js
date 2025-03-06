@@ -6,12 +6,12 @@ export default {
       
       slides: [
         
-        { id: 0, img: require('@/assets/outf-img/intro/sinkan-web.jpg') },
-        { id: 1, img: require('@/assets/outf-img/intro/sinkan-web2.jpg') },
-        { id: 2, img: require('@/assets/outf-img/intro/sinkan-web3.jpg') },
-        { id: 3, img: require('@/assets/outf-img/intro/sinkan-web4.jpg') },
-        { id: 4, img: require('@/assets/outf-img/intro/sinkan-web5.jpg') },
-        { id: 5, img: require('@/assets/outf-img/intro/sinkan-web6.jpg') },
+        { id: 0, img: require('@/assets/outf-img/intro/shinkan-web-2025 (1).jpg') },
+        { id: 1, img: require('@/assets/outf-img/intro/shinkan-web-2025 (2).jpg') },
+        { id: 2, img: require('@/assets/outf-img/intro/shinkan-web-2025 (3).jpg') },
+        { id: 3, img: require('@/assets/outf-img/intro/shinkan-web-2025 (4).jpg') },
+        { id: 4, img: require('@/assets/outf-img/intro/shinkan-web-2025 (5).jpg') },
+        { id: 5, img: require('@/assets/outf-img/intro/shinkan-web-2025 (6).jpg') },
         /*
         { id: 6, img: require('@/assets/outf-Img/intro/sinkan-web-mono.jpg') },
         { id: 7, img: require('@/assets/outf-Img/intro/sinkan-web2-mono.jpg') },
