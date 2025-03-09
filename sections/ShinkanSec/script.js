@@ -13,17 +13,17 @@ export default {
             '部活動に関することはもちろん、気になる大学生活の質問などなど、どんなことでも陸上部員がお答えします！途中入退室自由です。是非参加してください！ (陸上部の紹介＋パート別相談＋学部別相談)',
           dayandtime: '日時：3月15日(土) 4月1日(火)',
           place: 'zoom参加はこちらから↓',
-          zoomlink:
-            'https://zoom.us/j/95476314818?pwd=cEVmOGxiOUZ0V1hXdDNXRlpMZWJsUT09',
-          zoomID: 'ミーティングID: 954 7631 4818',
-          zoompass: 'パスコード: Osaka123',
+          // zoomlink:
+          //   'https://zoom.us/j/95476314818?pwd=cEVmOGxiOUZ0V1hXdDNXRlpMZWJsUT09',
+          // zoomID: 'ミーティングID: 954 7631 4818',
+          // zoompass: 'パスコード: Osaka123',
         },
         {
           imgSrc: require('@/assets/shinkanjoho/Img/img2.jpg'),
           date: '4月5日(土),4月6日(日)',
           title: 'サーオリ',
           detail:
-            '陸上部員の話を直接聞くことができます。対面でしか聞けないこともあるはず！？そこのあなた！是非陸上部のブースに立ち寄ってみては？（イベントは終了しました。お越しいただいた皆さん、ありがとうございました！）',
+            '陸上部員の話を直接聞くことができます。対面でしか聞けないこともあるはず！？そこのあなた！是非陸上部のブースに立ち寄ってみては？',
           dayandtime: '日時：4月5日，4月6日',
           dayandtime: '日時：4月5日，4月6日',
           place: '場所：豊中キャンパス',
