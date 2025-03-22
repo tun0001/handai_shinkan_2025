@@ -13,10 +13,10 @@ export default {
             '部活動に関することはもちろん、気になる大学生活の質問などなど、どんなことでも陸上部員がお答えします！途中入退室自由です。是非参加してください！ (陸上部の紹介＋パート別相談＋学部別相談)',
           dayandtime: '日時：3月15日(土) 4月1日(火)',
           place: 'zoom参加はこちらから↓',
-          // zoomlink:
-          //   'https://zoom.us/j/95476314818?pwd=cEVmOGxiOUZ0V1hXdDNXRlpMZWJsUT09',
-          // zoomID: 'ミーティングID: 954 7631 4818',
-          // zoompass: 'パスコード: Osaka123',
+          zoomlink:
+            'https://us06web.zoom.us/j/83823065119?pwd=dcLPNknlYwRxqKPhzsmEg1PMIVOlFb.1',
+          zoomID: 'ミーティングID: 838 2306 5119',
+          zoompass: 'パスコード: 564534',
         },
         {
           imgSrc: require('@/assets/shinkanjoho/Img/img2.jpg'),
