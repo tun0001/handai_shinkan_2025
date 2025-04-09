@@ -25,7 +25,6 @@ export default {
           detail:
             '陸上部員の話を直接聞くことができます。対面でしか聞けないこともあるはず！？そこのあなた！是非陸上部のブースに立ち寄ってみては？',
           dayandtime: '日時：4月5日，4月6日',
-          dayandtime: '日時：4月5日，4月6日',
           place: '場所：豊中キャンパス',
         },
         // {
@@ -55,10 +54,10 @@ export default {
           imgSrc: require('@/assets/shinkanjoho/Img/img5.jpg'),
           date: '4月19日(土)',
           title: '新歓運動会',
-          detail:
-            '実際にすいらんにきて、陸上部の雰囲気を感じてみませんか？部員との交流もできます！',
+          detail:'実際にすいらんにきて、陸上部の雰囲気を感じてみませんか？部員との交流もできます！参加リンクはこちらから！',
           dayandtime: '日時：4月19日(土)',
           place: '場所：すいらん（吹田キャンパスグラウンド）',
+          zoomlink:'https://forms.gle/AtZqYS1QeXh7ECRB7',
         },
       ],
     }
