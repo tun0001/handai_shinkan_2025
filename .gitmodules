@@ -1,6 +1,6 @@
 [submodule "assets/gonuxt"]
 	path = assets/gonuxt
-	url = https://github.com:gdsc-osaka/gonuxt-assets.git
-[submodule "gonuxt"]
+	url = https://github.com/gdsc-osaka/gonuxt-assets.git
+[url "https://github.com/gdsc-osaka/gonuxt.git"]
 	path = gonuxt
-	url = https://github.com:gdsc-osaka/gonuxt.git
+	url = https://github.com/gdsc-osaka/gonuxt.git
